@@ -1,6 +1,6 @@
-from day1.part1 import solve as part1_solve
-from day1.part2 import solve as part2_solve
-from utils import get_data_path
+from year2022.day1.part1 import solve as part1_solve
+from year2022.day1.part2 import solve as part2_solve
+from year2022.utils import get_data_path
 
 
 class TestPart1:
